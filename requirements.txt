@@ -1,0 +1,6 @@
+pydantic
+fastapi
+uvicorn[standard]
+python-multipart
+fuzzywuzzy
+python-Levenshtein

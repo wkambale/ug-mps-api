@@ -1,0 +1,2888 @@
+[
+  {
+    "id": 1,
+    "name": "Kassiano Wadri Ezati",
+    "constituency": "Arua Central Division",
+    "party": "ANT"
+  },
+  {
+    "id": 2,
+    "name": "Dam Munyambabazi",
+    "constituency": "Bufumbira South",
+    "party": "ANT"
+  },
+  {
+    "id": 3,
+    "name": "Ismail Kasule",
+    "constituency": "Hoima West Division",
+    "party": "ANT"
+  },
+  {
+    "id": 4,
+    "name": "Geoffrey Beraheru",
+    "constituency": "Hoima East",
+    "party": "ANT"
+  },
+  {
+    "id": 5,
+    "name": "Herbert Kato",
+    "constituency": "Bugahya County",
+    "party": "ANT"
+  },
+  {
+    "id": 6,
+    "name": "Bigirwa Moses",
+    "constituency": "Kamuli Municipality",
+    "party": "CMP"
+  },
+  {
+    "id": 7,
+    "name": "Javira Nsamba Lubadde",
+    "constituency": "Makindye Ssabagabo",
+    "party": "CMP"
+  },
+  {
+    "id": 8,
+    "name": "George Ssemakula",
+    "constituency": "Katikamu South",
+    "party": "DP"
+  },
+  {
+    "id": 9,
+    "name": "Joseph Ofwono Ottawa",
+    "constituency": "West Budama North East",
+    "party": "DP"
+  },
+  {
+    "id": 10,
+    "name": "Peter Carlos Ebiau",
+    "constituency": "Kasilo",
+    "party": "DP"
+  },
+  {
+    "id": 11,
+    "name": "Henry Lubowa",
+    "constituency": "Nansana Municipality",
+    "party": "DP"
+  },
+  {
+    "id": 12,
+    "name": "Annet Nakyanja Mawejje",
+    "constituency": "Wakiso Woman Mp",
+    "party": "DP"
+  },
+  {
+    "id": 13,
+    "name": "Bayo Christopher",
+    "constituency": "Ayivu West Division",
+    "party": "DP"
+  },
+  {
+    "id": 14,
+    "name": "Daniel Ngirabakunzi",
+    "constituency": "Bufumbira North",
+    "party": "DP"
+  },
+  {
+    "id": 15,
+    "name": "Lyandro Komakech",
+    "constituency": "Bar-dege-layibi Division",
+    "party": "DP"
+  },
+  {
+    "id": 16,
+    "name": "Norbert Mao",
+    "constituency": "Laroo-pece Division",
+    "party": "DP"
+  },
+  {
+    "id": 17,
+    "name": "Wakabi Joseph",
+    "constituency": "Buzaaya County",
+    "party": "DP"
+  },
+  {
+    "id": 18,
+    "name": "Micheal Kakembo Mbwatekamwa",
+    "constituency": "Entebbe Municipality",
+    "party": "DP"
+  },
+  {
+    "id": 19,
+    "name": "Vicent Kayanja Depaul",
+    "constituency": "Entebbe Municipality",
+    "party": "DP"
+  },
+  {
+    "id": 20,
+    "name": "Birungi Rebecca Mary",
+    "constituency": "Makindye Ssabagabo",
+    "party": "DP"
+  },
+  {
+    "id": 21,
+    "name": "Mr Ivan Isiko",
+    "constituency": "Jinja South West City Constit",
+    "party": "ECO"
+  },
+  {
+    "id": 22,
+    "name": "Irene Melinda Nantumbwe",
+    "constituency": "Entebbe Municipality",
+    "party": "ECO"
+  },
+  {
+    "id": 23,
+    "name": "Vitarine Nasubuga Nalumansi",
+    "constituency": "Woman Mp Mukono",
+    "party": "FDC"
+  },
+  {
+    "id": 24,
+    "name": "Irene Mutonyi",
+    "constituency": "Woman Mp, Manafwa District",
+    "party": "FDC"
+  },
+  {
+    "id": 25,
+    "name": "Geoffrey Ekanya",
+    "constituency": "Tororo North County",
+    "party": "FDC"
+  },
+  {
+    "id": 26,
+    "name": "Emmanuel Ongom Okwel",
+    "constituency": "Ajuri County",
+    "party": "FDC"
+  },
+  {
+    "id": 27,
+    "name": "Anguyo Godfrey",
+    "constituency": "Ayivu East Division",
+    "party": "FDC"
+  },
+  {
+    "id": 28,
+    "name": "Patrick Tandrupasi",
+    "constituency": "Adjumani West",
+    "party": "FDC"
+  },
+  {
+    "id": 29,
+    "name": "James Emaju",
+    "constituency": "Kasilo",
+    "party": "FDC"
+  },
+  {
+    "id": 30,
+    "name": "Deborah Akiteng",
+    "constituency": "Serere Woman Seat",
+    "party": "FDC"
+  },
+  {
+    "id": 31,
+    "name": "Stephen Ochola",
+    "constituency": "Serere County",
+    "party": "FDC"
+  },
+  {
+    "id": 32,
+    "name": "Moses Attan Okia",
+    "constituency": "Soroti City East",
+    "party": "FDC"
+  },
+  {
+    "id": 33,
+    "name": "Joan Alobo",
+    "constituency": "Soroti City East",
+    "party": "FDC"
+  },
+  {
+    "id": 34,
+    "name": "Jonathan Ebwalu",
+    "constituency": "Soroti City West",
+    "party": "FDC"
+  },
+  {
+    "id": 35,
+    "name": "Anna Adeke Ebaju",
+    "constituency": "Soroti District Woman Mp",
+    "party": "FDC"
+  },
+  {
+    "id": 36,
+    "name": "Tom Julius Ekudo",
+    "constituency": "Gweri",
+    "party": "FDC"
+  },
+  {
+    "id": 37,
+    "name": "Daniel Eigu",
+    "constituency": "Soroti County",
+    "party": "FDC"
+  },
+  {
+    "id": 38,
+    "name": "Jonathan Erau",
+    "constituency": "Dakabela",
+    "party": "FDC"
+  },
+  {
+    "id": 39,
+    "name": "Mercy Gorreti Atemo",
+    "constituency": "Kumi",
+    "party": "FDC"
+  },
+  {
+    "id": 40,
+    "name": "Ms Florence Kabugho",
+    "constituency": "Kasese District Woman Mp",
+    "party": "FDC"
+  },
+  {
+    "id": 41,
+    "name": "Hannifah Nyangoma",
+    "constituency": "Buliisa District Woman Mp",
+    "party": "FDC"
+  },
+  {
+    "id": 42,
+    "name": "Masereka Sylvest",
+    "constituency": "Bukonzo County East",
+    "party": "FDC"
+  },
+  {
+    "id": 43,
+    "name": "Nzoghu Musabe William",
+    "constituency": "Bukonzo County North",
+    "party": "FDC"
+  },
+  {
+    "id": 44,
+    "name": "Kighema Alozius Baguma",
+    "constituency": "Busongora County South",
+    "party": "FDC"
+  },
+  {
+    "id": 45,
+    "name": "Centenary Franco Robert",
+    "constituency": "Kasese Municipality",
+    "party": "FDC"
+  },
+  {
+    "id": 46,
+    "name": "Moses Okwera Mugisha",
+    "constituency": "Nakawa East",
+    "party": "FDC"
+  },
+  {
+    "id": 47,
+    "name": "Francis Lubega",
+    "constituency": "Makindye East",
+    "party": "FDC"
+  },
+  {
+    "id": 48,
+    "name": "Kabanda Ronald Kirimani",
+    "constituency": "Bugabula South",
+    "party": "FDC"
+  },
+  {
+    "id": 49,
+    "name": "Andrew Eiru Epedu",
+    "constituency": "Kira Municipality",
+    "party": "FDC"
+  },
+  {
+    "id": 50,
+    "name": "Hamisi Musoke Walusimbi",
+    "constituency": "Nansana Municipality",
+    "party": "FDC"
+  },
+  {
+    "id": 51,
+    "name": "Isaac Muzeyi",
+    "constituency": "Makindye Ssabagabo",
+    "party": "FDC"
+  },
+  {
+    "id": 52,
+    "name": "Joreen Najemba",
+    "constituency": "Wakiso Woman Mp",
+    "party": "FDC"
+  },
+  {
+    "id": 53,
+    "name": "Stephen Omara",
+    "constituency": "Ajuri County",
+    "party": "IND"
+  },
+  {
+    "id": 54,
+    "name": "Debo Ronald",
+    "constituency": "Arua Central Division",
+    "party": "IND"
+  },
+  {
+    "id": 55,
+    "name": "Sheilla Oβia",
+    "constituency": "Arua City Woman",
+    "party": "IND"
+  },
+  {
+    "id": 56,
+    "name": "Daphine Draza",
+    "constituency": "Arua City Woman",
+    "party": "IND"
+  },
+  {
+    "id": 57,
+    "name": "Lematia John",
+    "constituency": "Ayivu West Division",
+    "party": "IND"
+  },
+  {
+    "id": 58,
+    "name": "Sandra Ewaecabo",
+    "constituency": "Arua City Woman",
+    "party": "IND"
+  },
+  {
+    "id": 59,
+    "name": "Feta Geoffrey",
+    "constituency": "Ayivu East Division",
+    "party": "IND"
+  },
+  {
+    "id": 60,
+    "name": "Charles Lagu",
+    "constituency": "Moyo West",
+    "party": "IND"
+  },
+  {
+    "id": 61,
+    "name": "Ongiertho Emmanuel",
+    "constituency": "Nebbi Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 62,
+    "name": "Karimu Musa",
+    "constituency": "Aringa Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 63,
+    "name": "Musema Bruce",
+    "constituency": "Aringa South",
+    "party": "IND"
+  },
+  {
+    "id": 64,
+    "name": "Fikira Yasin",
+    "constituency": "Yumbe District Woman",
+    "party": "IND"
+  },
+  {
+    "id": 65,
+    "name": "Olega Ashraf",
+    "constituency": "Aringa Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 66,
+    "name": "Draga Gasper",
+    "constituency": "Adjumani West",
+    "party": "IND"
+  },
+  {
+    "id": 67,
+    "name": "James Mamawi",
+    "constituency": "Adjumani East",
+    "party": "IND"
+  },
+  {
+    "id": 68,
+    "name": "Lina Bangi",
+    "constituency": "Adjumani District Woman",
+    "party": "IND"
+  },
+  {
+    "id": 69,
+    "name": "Kibikyo Yoweri Kidaga",
+    "constituency": "Buzaaya County",
+    "party": "IND"
+  },
+  {
+    "id": 70,
+    "name": "Ssebidde Ammex",
+    "constituency": "Buzaaya County",
+    "party": "IND"
+  },
+  {
+    "id": 71,
+    "name": "Kirenda Isabirye Samuel",
+    "constituency": "Buzaaya County",
+    "party": "IND"
+  },
+  {
+    "id": 72,
+    "name": "Mpasa Emmanuel",
+    "constituency": "Buzaaya County",
+    "party": "IND"
+  },
+  {
+    "id": 73,
+    "name": "Dhizaala Sanon Moses",
+    "constituency": "Bugabula South",
+    "party": "IND"
+  },
+  {
+    "id": 74,
+    "name": "Akoberwa Abusaagi",
+    "constituency": "Bugabula North",
+    "party": "IND"
+  },
+  {
+    "id": 75,
+    "name": "Mulindwa George",
+    "constituency": "Bugabula North",
+    "party": "IND"
+  },
+  {
+    "id": 76,
+    "name": "Ntende Julius",
+    "constituency": "Bugabula North",
+    "party": "IND"
+  },
+  {
+    "id": 77,
+    "name": "Omondi Flavia",
+    "constituency": "Bugabula North",
+    "party": "IND"
+  },
+  {
+    "id": 78,
+    "name": "Ataliba Irene",
+    "constituency": "Buzaaya County",
+    "party": "IND"
+  },
+  {
+    "id": 79,
+    "name": "Fiona Mary Lawino",
+    "constituency": "Woman Mp Buliisa District",
+    "party": "IND"
+  },
+  {
+    "id": 80,
+    "name": "Samuel Junior Okello Engola",
+    "constituency": "Oyam North",
+    "party": "IND"
+  },
+  {
+    "id": 81,
+    "name": "Ronald Roy Kaka",
+    "constituency": "Oyam North",
+    "party": "IND"
+  },
+  {
+    "id": 82,
+    "name": "Benard Awuko",
+    "constituency": "Oyam South",
+    "party": "IND"
+  },
+  {
+    "id": 83,
+    "name": "Tony Ayo",
+    "constituency": "Kwania County",
+    "party": "IND"
+  },
+  {
+    "id": 84,
+    "name": "Dr Eric Oket",
+    "constituency": "Kwania County",
+    "party": "IND"
+  },
+  {
+    "id": 85,
+    "name": "Dr Collins Jennesio Okuu Oleng",
+    "constituency": "Otuke East",
+    "party": "IND"
+  },
+  {
+    "id": 86,
+    "name": "Abel Bizimana",
+    "constituency": "Bufumbira East",
+    "party": "IND"
+  },
+  {
+    "id": 87,
+    "name": "Mr Larn Waiswa",
+    "constituency": "Kigulu South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 88,
+    "name": "Nancy Atimango",
+    "constituency": "Gulu District Woman Representati",
+    "party": "IND"
+  },
+  {
+    "id": 89,
+    "name": "Vincent Grace Luswata",
+    "constituency": "Mukono South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 90,
+    "name": "Joshua Waswa Mugirya",
+    "constituency": "Nakifuma, County",
+    "party": "IND"
+  },
+  {
+    "id": 91,
+    "name": "Esther Gibone",
+    "constituency": "Mukono South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 92,
+    "name": "Peter Bakaluba Mukasa",
+    "constituency": "Mukono Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 93,
+    "name": "Loy Mwesigwa",
+    "constituency": "Mukono South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 94,
+    "name": "Hanifa Nabukeera",
+    "constituency": "Mukono Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 95,
+    "name": "Peace Kusasira",
+    "constituency": "Woman Mp, Mukono",
+    "party": "IND"
+  },
+  {
+    "id": 96,
+    "name": "Andrew Ssenyonga",
+    "constituency": "Mukono Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 97,
+    "name": "Norah Sylivia Namutosi",
+    "constituency": "Woman Mp, Mukono",
+    "party": "IND"
+  },
+  {
+    "id": 98,
+    "name": "Mubarak Ssekikubo",
+    "constituency": "Mukono South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 99,
+    "name": "Mr Milton Muwuma",
+    "constituency": "Kigulu South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 100,
+    "name": "Ms Sauda Kawuma Alibawo",
+    "constituency": "Iganga Woman Mp Seat",
+    "party": "IND"
+  },
+  {
+    "id": 101,
+    "name": "Ms Marim Magumba",
+    "constituency": "Iganga Woman Mp Seat",
+    "party": "IND"
+  },
+  {
+    "id": 102,
+    "name": "Persis Namuganja",
+    "constituency": "Bukono Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 103,
+    "name": "Mr Seduraki Mugoya",
+    "constituency": "Busiki North",
+    "party": "IND"
+  },
+  {
+    "id": 104,
+    "name": "Mr Yusuf Kwaso",
+    "constituency": "Busiki North",
+    "party": "IND"
+  },
+  {
+    "id": 105,
+    "name": "Mr Asupasa Mpongo",
+    "constituency": "Busiki North",
+    "party": "IND"
+  },
+  {
+    "id": 106,
+    "name": "Ms Catherin Mudederi",
+    "constituency": "Kaliro District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 107,
+    "name": "Mr Alex Ngobi",
+    "constituency": "Luuka South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 108,
+    "name": "Peter Kimanje Nsibambi",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 109,
+    "name": "Patricia Magara",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 110,
+    "name": "Mi Michael Kintu",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 111,
+    "name": "Marvin Mugisha",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 112,
+    "name": "Zenar Nasur",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 113,
+    "name": "Peter Ogiit",
+    "constituency": "Pingire",
+    "party": "IND"
+  },
+  {
+    "id": 114,
+    "name": "Esther Lucy Acom",
+    "constituency": "Serere Woman Seat",
+    "party": "IND"
+  },
+  {
+    "id": 115,
+    "name": "Emmah Okwii",
+    "constituency": "Serere County",
+    "party": "IND"
+  },
+  {
+    "id": 116,
+    "name": "Elijah Okupa",
+    "constituency": "Kasilo",
+    "party": "IND"
+  },
+  {
+    "id": 117,
+    "name": "Rodney Mukula Akongel",
+    "constituency": "Soroti City East",
+    "party": "IND"
+  },
+  {
+    "id": 118,
+    "name": "Martin Abilu",
+    "constituency": "Soroti City East",
+    "party": "IND"
+  },
+  {
+    "id": 119,
+    "name": "Harriet Anyimo",
+    "constituency": "Dakabela",
+    "party": "IND"
+  },
+  {
+    "id": 120,
+    "name": "Christine Apolot",
+    "constituency": "Kumi W Mpoman",
+    "party": "IND"
+  },
+  {
+    "id": 121,
+    "name": "Getrude Akomolot",
+    "constituency": "Kumi Woman",
+    "party": "IND"
+  },
+  {
+    "id": 122,
+    "name": "Kevin Akiror",
+    "constituency": "Kumi Woman",
+    "party": "IND"
+  },
+  {
+    "id": 123,
+    "name": "Silas Aogon",
+    "constituency": "Kumi Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 124,
+    "name": "Charles Olaboro",
+    "constituency": "Kumi Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 125,
+    "name": "Brain Arinaitwe",
+    "constituency": "Kabale Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 126,
+    "name": "Catherine Ndamira",
+    "constituency": "Kabale District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 127,
+    "name": "Grace Ankunda Bekunda",
+    "constituency": "Kabale District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 128,
+    "name": "Trust Kyomugisha)",
+    "constituency": "Kabale District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 129,
+    "name": "Gilbert Masiko",
+    "constituency": "Ndorwa West",
+    "party": "IND"
+  },
+  {
+    "id": 130,
+    "name": "Tracy Ninsiima",
+    "constituency": "Kabale District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 131,
+    "name": "Rosette Asiimwe",
+    "constituency": "Kabale District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 132,
+    "name": "Alex Muhwezi",
+    "constituency": "Kabale Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 133,
+    "name": "Wilfred Niwagaba",
+    "constituency": "Ndorwa East",
+    "party": "IND"
+  },
+  {
+    "id": 134,
+    "name": "Moses Kamuntu Mwongyera",
+    "constituency": "Rubanda West",
+    "party": "IND"
+  },
+  {
+    "id": 135,
+    "name": "Jogo Kenneth Biryabarema",
+    "constituency": "Rubanda East",
+    "party": "IND"
+  },
+  {
+    "id": 136,
+    "name": "Evelyne Ninsiima",
+    "constituency": "Rubanda District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 137,
+    "name": "Leo Nfitimana",
+    "constituency": "Kisoro Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 138,
+    "name": "Sam Bitangaro",
+    "constituency": "Bufumbira South",
+    "party": "IND"
+  },
+  {
+    "id": 139,
+    "name": "John Kamara",
+    "constituency": "Bufumbira North",
+    "party": "IND"
+  },
+  {
+    "id": 140,
+    "name": "Sam Kajojo Arinaitwe",
+    "constituency": "Kinkizi East",
+    "party": "IND"
+  },
+  {
+    "id": 141,
+    "name": "John Ndungutse",
+    "constituency": "Kinkizi West",
+    "party": "IND"
+  },
+  {
+    "id": 142,
+    "name": "Turyatunga Stephen Ikamukuba",
+    "constituency": "Kinkizi West",
+    "party": "IND"
+  },
+  {
+    "id": 143,
+    "name": "Esther Majambere Musoke",
+    "constituency": "Kanungu District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 144,
+    "name": "Christopher Safari",
+    "constituency": "Kinkizi West",
+    "party": "IND"
+  },
+  {
+    "id": 145,
+    "name": "Damson Kivumbi",
+    "constituency": "Rukiga County",
+    "party": "IND"
+  },
+  {
+    "id": 146,
+    "name": "Roland Ndyomugyenyi",
+    "constituency": "Rukiga County",
+    "party": "IND"
+  },
+  {
+    "id": 147,
+    "name": "Fr Charles Onen",
+    "constituency": "Laroo-pece Division",
+    "party": "IND"
+  },
+  {
+    "id": 148,
+    "name": "Jusith Obina",
+    "constituency": "Gulu City Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 149,
+    "name": "Kenneth Okot",
+    "constituency": "Kilak North Mp,",
+    "party": "IND"
+  },
+  {
+    "id": 150,
+    "name": "Johnson Agara Olwa",
+    "constituency": "Aswa County",
+    "party": "IND"
+  },
+  {
+    "id": 151,
+    "name": "Samuel Odonga- Otto",
+    "constituency": "Aruu County",
+    "party": "IND"
+  },
+  {
+    "id": 152,
+    "name": "Muhamad Nsubuga",
+    "constituency": "Kawempe South",
+    "party": "IND"
+  },
+  {
+    "id": 153,
+    "name": "Joy Kirabo Kasangwa",
+    "constituency": "Nakawa East",
+    "party": "IND"
+  },
+  {
+    "id": 154,
+    "name": "Allan Ssewanyana",
+    "constituency": "Makindye West",
+    "party": "IND"
+  },
+  {
+    "id": 155,
+    "name": "Shamimu Nanfuna",
+    "constituency": "Kampala Wmp",
+    "party": "IND"
+  },
+  {
+    "id": 156,
+    "name": "Robert Ssekidde",
+    "constituency": "Makindye East",
+    "party": "IND"
+  },
+  {
+    "id": 157,
+    "name": "Charles Keeno",
+    "constituency": "Nakawa East",
+    "party": "IND"
+  },
+  {
+    "id": 158,
+    "name": "Moses Muhangi",
+    "constituency": "Kampala Central",
+    "party": "IND"
+  },
+  {
+    "id": 159,
+    "name": "Diana Kitoosa",
+    "constituency": "Rubaga North",
+    "party": "IND"
+  },
+  {
+    "id": 160,
+    "name": "Newton Segawa",
+    "constituency": "Makindye East",
+    "party": "IND"
+  },
+  {
+    "id": 161,
+    "name": "Muhwezi Deus",
+    "constituency": "Kajara (ntungamo District)",
+    "party": "IND"
+  },
+  {
+    "id": 162,
+    "name": "Kaijuka Davison",
+    "constituency": "Kajara (ntungamo District)",
+    "party": "IND"
+  },
+  {
+    "id": 163,
+    "name": "Henry Nkwasibwe Zinkuratire",
+    "constituency": "Ruhaama (ntungamo District)",
+    "party": "IND"
+  },
+  {
+    "id": 164,
+    "name": "Kakajara Eugenia",
+    "constituency": "Ruhaama (ntungamo District)",
+    "party": "IND"
+  },
+  {
+    "id": 165,
+    "name": "Barungi Richard",
+    "constituency": "Ruhaama (ntungamo District)",
+    "party": "IND"
+  },
+  {
+    "id": 166,
+    "name": "Gerald Karuhanga",
+    "constituency": "Ntungamo Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 167,
+    "name": "Beyendeza Edward Bekunda",
+    "constituency": "Ntungamo Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 168,
+    "name": "Naikoba Prossy",
+    "constituency": "Kamuli District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 169,
+    "name": "Nakisige Ritah",
+    "constituency": "Kamuli District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 170,
+    "name": "Luwano Aziz",
+    "constituency": "Kamuli Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 171,
+    "name": "Kayanga Baroda",
+    "constituency": "Kamuli Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 172,
+    "name": "Tezikuba Faruk Joshua",
+    "constituency": "Kamuli Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 173,
+    "name": "Samuel Bahemuka",
+    "constituency": "Buliisa County",
+    "party": "IND"
+  },
+  {
+    "id": 174,
+    "name": "Robert Kagoro Mugume",
+    "constituency": "Buliisa County",
+    "party": "IND"
+  },
+  {
+    "id": 175,
+    "name": "Maxwell Atuhura",
+    "constituency": "Buliisa County",
+    "party": "IND"
+  },
+  {
+    "id": 176,
+    "name": "Fiona Mary Lawino",
+    "constituency": "Buliisa District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 177,
+    "name": "Daniel Muhairwe Mpamizo",
+    "constituency": "Buhaguzi County",
+    "party": "IND"
+  },
+  {
+    "id": 178,
+    "name": "Nelson Junjura",
+    "constituency": "Buhaguzi East County",
+    "party": "IND"
+  },
+  {
+    "id": 179,
+    "name": "Julius Bigirwa Junjura",
+    "constituency": "Buhaguzi East County",
+    "party": "IND"
+  },
+  {
+    "id": 180,
+    "name": "Dr. Joseph Ruyonga",
+    "constituency": "Hoima West Division",
+    "party": "IND"
+  },
+  {
+    "id": 181,
+    "name": "Harriet Businge",
+    "constituency": "Hoima District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 182,
+    "name": "Mr Abdulahim Ssebukaire",
+    "constituency": "Kigulu South Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 183,
+    "name": "Alfred Muwanga",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 184,
+    "name": "Connie Galiwango",
+    "constituency": "Woman Mp Mbale City",
+    "party": "IND"
+  },
+  {
+    "id": 185,
+    "name": "Sarah Wasagali",
+    "constituency": "Woman Mp Mbale City",
+    "party": "IND"
+  },
+  {
+    "id": 186,
+    "name": "Anthony Wasukira",
+    "constituency": "Industrial City Division Mp",
+    "party": "IND"
+  },
+  {
+    "id": 187,
+    "name": "Seth Wambede",
+    "constituency": "Northern City Division Mp",
+    "party": "IND"
+  },
+  {
+    "id": 188,
+    "name": "Paul Wanyoto Mugoya",
+    "constituency": "Northern City Division Mp",
+    "party": "IND"
+  },
+  {
+    "id": 189,
+    "name": "Hussein Wazemba Wachagi",
+    "constituency": "Bunghokho North",
+    "party": "IND"
+  },
+  {
+    "id": 190,
+    "name": "Florence Nambozo",
+    "constituency": "Woman Mp Sironko District",
+    "party": "IND"
+  },
+  {
+    "id": 191,
+    "name": "Rose Mutonyi",
+    "constituency": "Woman Mp Manafwa District",
+    "party": "IND"
+  },
+  {
+    "id": 192,
+    "name": "Chris Matembu Wataka",
+    "constituency": "Bubulo West, Namisindwa",
+    "party": "IND"
+  },
+  {
+    "id": 193,
+    "name": "Sarah Khanakwa",
+    "constituency": "Woman Mp, Namisindwa District",
+    "party": "IND"
+  },
+  {
+    "id": 194,
+    "name": "Umar Nangoli",
+    "constituency": "Northen City Division, Mbale City",
+    "party": "IND"
+  },
+  {
+    "id": 195,
+    "name": "Irene Muloni",
+    "constituency": "Elgon North County, Bulambuli Dis",
+    "party": "IND"
+  },
+  {
+    "id": 196,
+    "name": "Kefa Mafumo",
+    "constituency": "Butiru County, Manafwa",
+    "party": "IND"
+  },
+  {
+    "id": 197,
+    "name": "Robert Onyango Magara",
+    "constituency": "West Budama North East",
+    "party": "IND"
+  },
+  {
+    "id": 198,
+    "name": "Joshua Ochom Okongo",
+    "constituency": "Tororo North County",
+    "party": "IND"
+  },
+  {
+    "id": 199,
+    "name": "Ochom Patrick Oguta",
+    "constituency": "Tororo Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 200,
+    "name": "Osinde Jimmy Okongo Owor",
+    "constituency": "West Budama North East",
+    "party": "IND"
+  },
+  {
+    "id": 201,
+    "name": "Wilson Okachuga",
+    "constituency": "Tororo South County",
+    "party": "IND"
+  },
+  {
+    "id": 202,
+    "name": "Oketcho Solomon Lony",
+    "constituency": "West Budama South",
+    "party": "IND"
+  },
+  {
+    "id": 203,
+    "name": "Annette Nyaketcho",
+    "constituency": "Tororo North County",
+    "party": "IND"
+  },
+  {
+    "id": 204,
+    "name": "Richard Othieno Okoth",
+    "constituency": "West Budama North",
+    "party": "IND"
+  },
+  {
+    "id": 205,
+    "name": "Fox Odoi Oywelowo",
+    "constituency": "West Budama North East",
+    "party": "IND"
+  },
+  {
+    "id": 206,
+    "name": "Henry Okori Okumu",
+    "constituency": "West Budama North",
+    "party": "IND"
+  },
+  {
+    "id": 207,
+    "name": "Ambassador Phibby Otaala Awere",
+    "constituency": "Tororo District Woman.mp",
+    "party": "IND"
+  },
+  {
+    "id": 208,
+    "name": "Annette Mandala Kimbowa",
+    "constituency": "Tororo Municipality (",
+    "party": "IND"
+  },
+  {
+    "id": 209,
+    "name": "Nyasio Mudimi",
+    "constituency": "Elgon County, Bulambuli District",
+    "party": "IND"
+  },
+  {
+    "id": 210,
+    "name": "Jackline Nandudu",
+    "constituency": "Bulambuli Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 211,
+    "name": "Sauda Namataka",
+    "constituency": "Elgon County, Bulambuli District",
+    "party": "IND"
+  },
+  {
+    "id": 212,
+    "name": "Mesach Kiboma",
+    "constituency": "Elgon County, Bulambuli District",
+    "party": "IND"
+  },
+  {
+    "id": 213,
+    "name": "Stephen Nagimesi",
+    "constituency": "Elgon County, Bulambuli District",
+    "party": "IND"
+  },
+  {
+    "id": 214,
+    "name": "Peter Wekesa",
+    "constituency": "Bulambuli County, Bulambuli",
+    "party": "IND"
+  },
+  {
+    "id": 215,
+    "name": "Isaac Katenya",
+    "constituency": "Bulambuli County, Bulambuli",
+    "party": "IND"
+  },
+  {
+    "id": 216,
+    "name": "Mr Lazarous Namadu",
+    "constituency": "Jinja South West City Constit",
+    "party": "IND"
+  },
+  {
+    "id": 217,
+    "name": "Ms Manjeri Kyebakutika",
+    "constituency": "Jinja City Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 218,
+    "name": "Mr Ronnie Kakooza",
+    "constituency": "Jinja North City Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 219,
+    "name": "Mr Ronald Isiko",
+    "constituency": "Jinja North City Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 220,
+    "name": "Mr Isaac Imack",
+    "constituency": "Jinja North City Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 221,
+    "name": "Mr Godfrey Kabugo",
+    "constituency": "Jinja North City Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 222,
+    "name": "Rachel Magoola",
+    "constituency": "Bugweri District Woman Seat",
+    "party": "IND"
+  },
+  {
+    "id": 223,
+    "name": "Ms Stella Nankwanga",
+    "constituency": "Bugweri District Woman Seat",
+    "party": "IND"
+  },
+  {
+    "id": 224,
+    "name": "Isaac Drasi",
+    "constituency": "Mukono North Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 225,
+    "name": "Hajj Ismail Badogi",
+    "constituency": "Kigulu North",
+    "party": "IND"
+  },
+  {
+    "id": 226,
+    "name": "Ms Monica Namukose Kamagu",
+    "constituency": "Jinja District Woman Seat",
+    "party": "IND"
+  },
+  {
+    "id": 227,
+    "name": "Mr Moses Walyomu",
+    "constituency": "Kagoma Constituency",
+    "party": "IND"
+  },
+  {
+    "id": 228,
+    "name": "Grace Amoriot",
+    "constituency": "Kumi Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 229,
+    "name": "Charles Ilukor",
+    "constituency": "Kumi County",
+    "party": "IND"
+  },
+  {
+    "id": 230,
+    "name": "David Bahati",
+    "constituency": "Ndorwa West",
+    "party": "IND"
+  },
+  {
+    "id": 231,
+    "name": "Mr Rwabuhinga Richard",
+    "constituency": "Burahya County",
+    "party": "IND"
+  },
+  {
+    "id": 232,
+    "name": "Marjorie Annet Kasiime",
+    "constituency": "Fort Portal Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 233,
+    "name": "Sylivia Rwabwongo",
+    "constituency": "Fort Portal Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 234,
+    "name": "Mugisa Reuben",
+    "constituency": "Fort Portal Central Division",
+    "party": "IND"
+  },
+  {
+    "id": 235,
+    "name": "Muhenda Ronald",
+    "constituency": "Fort Portal Central Division",
+    "party": "IND"
+  },
+  {
+    "id": 236,
+    "name": "Mr Banabas Tinkasimiire",
+    "constituency": "Buyaga West",
+    "party": "IND"
+  },
+  {
+    "id": 237,
+    "name": "Mr Musana Eric Acaali",
+    "constituency": "Buyaga East",
+    "party": "IND"
+  },
+  {
+    "id": 238,
+    "name": "Ms Janifer Kyomuhendo Mbabazi",
+    "constituency": "Kagadi District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 239,
+    "name": "Nahwera Prossy",
+    "constituency": "Kagadi District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 240,
+    "name": "Mr Francis Mugisa Kithulha",
+    "constituency": "Kasese Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 241,
+    "name": "Mr John Sibendire Katusabe",
+    "constituency": "Kasese Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 242,
+    "name": "Kyalimpa Paul",
+    "constituency": "Buyanja County",
+    "party": "IND"
+  },
+  {
+    "id": 243,
+    "name": "Ms Nabaduka Annet",
+    "constituency": "Kibaale District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 244,
+    "name": "Mr Jimmy Kisembo Wakame",
+    "constituency": "Bugangaizi Wes",
+    "party": "IND"
+  },
+  {
+    "id": 245,
+    "name": "Mr Kusiima Godfrey",
+    "constituency": "Bugangaizi East",
+    "party": "IND"
+  },
+  {
+    "id": 246,
+    "name": "Mr Tumwesige Josephat",
+    "constituency": "Bugangaizi South",
+    "party": "IND"
+  },
+  {
+    "id": 247,
+    "name": "Ms Grace Bataringaya",
+    "constituency": "Kakumiro District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 248,
+    "name": "Ms Harriet Sari",
+    "constituency": "Kakumiro District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 249,
+    "name": "Fiona Mary Lawino",
+    "constituency": "Buliisa District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 250,
+    "name": "Joan Kyomuhendo",
+    "constituency": "Kikuube District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 251,
+    "name": "David Karubanga",
+    "constituency": "Kigorobya County",
+    "party": "IND"
+  },
+  {
+    "id": 252,
+    "name": "Masereka Robert",
+    "constituency": "Bukonzo County North",
+    "party": "IND"
+  },
+  {
+    "id": 253,
+    "name": "Mugisa Francis Kithulha",
+    "constituency": "Kasese Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 254,
+    "name": "Kabugho Marylin",
+    "constituency": "Kasese District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 255,
+    "name": "Nsekanabo Godson",
+    "constituency": "Bwamba County",
+    "party": "IND"
+  },
+  {
+    "id": 256,
+    "name": "Julius Mugisa",
+    "constituency": "Buruli County",
+    "party": "IND"
+  },
+  {
+    "id": 257,
+    "name": "Kasangaki Lillian",
+    "constituency": "Masindi District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 258,
+    "name": "Hajjat Kasemire",
+    "constituency": "Masindi District Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 259,
+    "name": "Patrick Katuramu",
+    "constituency": "Kira Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 260,
+    "name": "Katuroda Moses",
+    "constituency": "Kira Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 261,
+    "name": "Arthur Bright Nuwagaba",
+    "constituency": "Kira Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 262,
+    "name": "Frank Katabarwa",
+    "constituency": "Kira Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 263,
+    "name": "Mark Tulyazarwa",
+    "constituency": "Kira Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 264,
+    "name": "Jane Scholastica Gamba",
+    "constituency": "Entebbe Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 265,
+    "name": "Yusuf Kanakulya",
+    "constituency": "Entebbe Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 266,
+    "name": "Florence Kintu",
+    "constituency": "Nansana Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 267,
+    "name": "Ramathan Mutebi",
+    "constituency": "Nansana Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 268,
+    "name": "Stephen Kaweesa",
+    "constituency": "Nansana Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 269,
+    "name": "Joseph Musoke",
+    "constituency": "Nansana Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 270,
+    "name": "Juliet Kayala Kyambadde",
+    "constituency": "Nansana Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 271,
+    "name": "Fred Luyinda",
+    "constituency": "Nansana Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 272,
+    "name": "Godfrey Ssemwanga",
+    "constituency": "Makindye Ssabagabo",
+    "party": "IND"
+  },
+  {
+    "id": 273,
+    "name": "Akram Lutaaya",
+    "constituency": "Makindye Ssabagabo",
+    "party": "IND"
+  },
+  {
+    "id": 274,
+    "name": "Dick Rwegaba",
+    "constituency": "Makindye Ssabagabo",
+    "party": "IND"
+  },
+  {
+    "id": 275,
+    "name": "Irene Mpamulungi",
+    "constituency": "Wakiso Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 276,
+    "name": "Rose Kirabira",
+    "constituency": "Wakiso Woman Mp",
+    "party": "IND"
+  },
+  {
+    "id": 277,
+    "name": "Peter Kinaje Nsibambi",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 278,
+    "name": "Ronal Ndaula",
+    "constituency": "Katikamu North",
+    "party": "IND"
+  },
+  {
+    "id": 279,
+    "name": "Michael Kintu",
+    "constituency": "Katikamu South",
+    "party": "IND"
+  },
+  {
+    "id": 280,
+    "name": "Thompson Ssebabuga",
+    "constituency": "Bamunanika",
+    "party": "IND"
+  },
+  {
+    "id": 281,
+    "name": "Maureen Nakuya",
+    "constituency": "Luweero District Woman",
+    "party": "IND"
+  },
+  {
+    "id": 282,
+    "name": "Dan Musinguzi Nabasa)",
+    "constituency": "Kabale Municipality",
+    "party": "IND"
+  },
+  {
+    "id": 283,
+    "name": "Alexander Kyomkwijuka",
+    "constituency": "Ndorwa East",
+    "party": "IND"
+  },
+  {
+    "id": 284,
+    "name": "Winfred Nakandi",
+    "constituency": "Nakawa East",
+    "party": "IND"
+  },
+  {
+    "id": 285,
+    "name": "Elijah Owobusigye",
+    "constituency": "Makindye East",
+    "party": "IND"
+  },
+  {
+    "id": 286,
+    "name": "Salima Nsibambi Nkuse",
+    "constituency": "Woman Mp Mukono",
+    "party": "JEEMA"
+  },
+  {
+    "id": 287,
+    "name": "Robert Kafeero Ssekitoreko",
+    "constituency": "Nakifuma County",
+    "party": "NRM"
+  },
+  {
+    "id": 288,
+    "name": "Isaac Emma Odongo",
+    "constituency": "Apac Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 289,
+    "name": "Peter Okodo",
+    "constituency": "Kioga North",
+    "party": "NRM"
+  },
+  {
+    "id": 290,
+    "name": "Dr Agnes Atim Apea",
+    "constituency": "Amolatar Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 291,
+    "name": "Willy Omodo Omodo Kagere",
+    "constituency": "Oyam North",
+    "party": "NRM"
+  },
+  {
+    "id": 292,
+    "name": "Benard Otim",
+    "constituency": "Maruzi North",
+    "party": "NRM"
+  },
+  {
+    "id": 293,
+    "name": "Tonny Eron",
+    "constituency": "Kwania County",
+    "party": "NRM"
+  },
+  {
+    "id": 294,
+    "name": "James Ongur Tar",
+    "constituency": "Kwania North",
+    "party": "NRM"
+  },
+  {
+    "id": 295,
+    "name": "Denis Hamson Obua",
+    "constituency": "Ajuri County",
+    "party": "NRM"
+  },
+  {
+    "id": 296,
+    "name": "Julius Achon Bua",
+    "constituency": "Otuke East",
+    "party": "NRM"
+  },
+  {
+    "id": 297,
+    "name": "Paul Omara",
+    "constituency": "Otuke County",
+    "party": "NRM"
+  },
+  {
+    "id": 298,
+    "name": "Ronald Kibuule",
+    "constituency": "Mukono North Constituency",
+    "party": "NRM"
+  },
+  {
+    "id": 299,
+    "name": "Daisy Sarah Ssonko Nabantazi",
+    "constituency": "Mukono Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 300,
+    "name": "Margaret Nakavubu Bakubi",
+    "constituency": "Woman Mp Mukono",
+    "party": "NRM"
+  },
+  {
+    "id": 301,
+    "name": "Mr Patrick Kayemba",
+    "constituency": "Kigulu South Constituency",
+    "party": "NRM"
+  },
+  {
+    "id": 302,
+    "name": "Felix Okot Ogong",
+    "constituency": "Dokolo South",
+    "party": "NRM"
+  },
+  {
+    "id": 303,
+    "name": "Onzima Phiona",
+    "constituency": "Ayivu West Division",
+    "party": "NRM"
+  },
+  {
+    "id": 304,
+    "name": "Tiyo Odaa",
+    "constituency": "Ayivu East Division",
+    "party": "NRM"
+  },
+  {
+    "id": 305,
+    "name": "Zumura Μανενο",
+    "constituency": "Obongi District Woman",
+    "party": "NRM"
+  },
+  {
+    "id": 306,
+    "name": "Fiona Nyamutoro",
+    "constituency": "Nebbi District Woman",
+    "party": "NRM"
+  },
+  {
+    "id": 307,
+    "name": "Avako Melsa Naima",
+    "constituency": "Yumbe District Woman",
+    "party": "NRM"
+  },
+  {
+    "id": 308,
+    "name": "Ezama Siraji Brahan",
+    "constituency": "Aringa Constituency",
+    "party": "NRM"
+  },
+  {
+    "id": 309,
+    "name": "Godfrey Onzima",
+    "constituency": "Aringa North",
+    "party": "NRM"
+  },
+  {
+    "id": 310,
+    "name": "Moses Ali",
+    "constituency": "Adjumani West",
+    "party": "NRM"
+  },
+  {
+    "id": 311,
+    "name": "Angel Dulu Mark",
+    "constituency": "Adjumani East",
+    "party": "NRM"
+  },
+  {
+    "id": 312,
+    "name": "Ababiku Jesca",
+    "constituency": "Adjumani District Woman",
+    "party": "NRM"
+  },
+  {
+    "id": 313,
+    "name": "Hajj Swaibu Ojasi",
+    "constituency": "Iganga Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 314,
+    "name": "Mr Emmanuel Maganda Katoko",
+    "constituency": "Bukono Constituency",
+    "party": "NRM"
+  },
+  {
+    "id": 315,
+    "name": "Sarah Wekomba",
+    "constituency": "Woman Mp Bulambuli District",
+    "party": "NRM"
+  },
+  {
+    "id": 316,
+    "name": "Ms Mariam Naigaga",
+    "constituency": "Iganga District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 317,
+    "name": "Mr Patrick Kasaja",
+    "constituency": "Buamogi North West Constituency",
+    "party": "NRM"
+  },
+  {
+    "id": 318,
+    "name": "Hon Hellen Adoa",
+    "constituency": "Serere Woman Seat",
+    "party": "NRM"
+  },
+  {
+    "id": 319,
+    "name": "Peter Paul Emaju",
+    "constituency": "Kasilo County",
+    "party": "NRM"
+  },
+  {
+    "id": 320,
+    "name": "Fred Opolot",
+    "constituency": "Pingire County",
+    "party": "NRM"
+  },
+  {
+    "id": 321,
+    "name": "Phillip Oucor",
+    "constituency": "Pingire",
+    "party": "NRM"
+  },
+  {
+    "id": 322,
+    "name": "Peter Edeku",
+    "constituency": "Dakabela",
+    "party": "NRM"
+  },
+  {
+    "id": 323,
+    "name": "Monica Amoding",
+    "constituency": "Kumi Woman",
+    "party": "NRM"
+  },
+  {
+    "id": 324,
+    "name": "Richard Ochom",
+    "constituency": "Kumi Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 325,
+    "name": "Sidronious Opolot Okaasai",
+    "constituency": "Kumi County",
+    "party": "NRM"
+  },
+  {
+    "id": 326,
+    "name": "Enid Origumisiriza",
+    "constituency": "Kabale District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 327,
+    "name": "Dr Protazio Begumisa",
+    "constituency": "Ndorwa East",
+    "party": "NRM"
+  },
+  {
+    "id": 328,
+    "name": "Henry Musasizi",
+    "constituency": "Rubanda East",
+    "party": "NRM"
+  },
+  {
+    "id": 329,
+    "name": "Bruce Kabasa",
+    "constituency": "Rubanda West",
+    "party": "NRM"
+  },
+  {
+    "id": 330,
+    "name": "Asigario Turyagyenda",
+    "constituency": "Bukimbiri County",
+    "party": "NRM"
+  },
+  {
+    "id": 331,
+    "name": "Alex Niyonsaba Seruganda",
+    "constituency": "Bufumbira South",
+    "party": "NRM"
+  },
+  {
+    "id": 332,
+    "name": "Chris Baryomunsi",
+    "constituency": "Kinkizi East",
+    "party": "NRM"
+  },
+  {
+    "id": 333,
+    "name": "Betty Namara Kataba",
+    "constituency": "Kanungu District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 334,
+    "name": "Patrick Kiconco Katabazi",
+    "constituency": "Rukiga County",
+    "party": "NRM"
+  },
+  {
+    "id": 335,
+    "name": "Martin Ojara Mapenduzi",
+    "constituency": "Bar-dege-layibi Division Gulu",
+    "party": "NRM"
+  },
+  {
+    "id": 336,
+    "name": "Tonn Kiara",
+    "constituency": "Laroo-pece Division",
+    "party": "NRM"
+  },
+  {
+    "id": 337,
+    "name": "Joyce Renni Alima",
+    "constituency": "Gulu City Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 338,
+    "name": "Simon Peter Wokorach,",
+    "constituency": "Aswa County",
+    "party": "NRM"
+  },
+  {
+    "id": 339,
+    "name": "Kirungi Annet Pamela",
+    "constituency": "Burahya County",
+    "party": "NRM"
+  },
+  {
+    "id": 340,
+    "name": "Margrete Muhanga Mugisa",
+    "constituency": "Fort Portal North Division",
+    "party": "NRM"
+  },
+  {
+    "id": 341,
+    "name": "Mr Namara Denis",
+    "constituency": "Buyaga West",
+    "party": "NRM"
+  },
+  {
+    "id": 342,
+    "name": "Mr Stephen Twesige",
+    "constituency": "Buyaga East",
+    "party": "NRM"
+  },
+  {
+    "id": 343,
+    "name": "Ms Naziwa Magret Rujumba",
+    "constituency": "Kagadi District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 344,
+    "name": "Ms Sarah Ithungu Masereka Balek Kasese District Woman Mp",
+    "constituency": "N/a",
+    "party": "NRM"
+  },
+  {
+    "id": 345,
+    "name": "Dr Chrispus Kiyonga",
+    "constituency": "Bukonzo West",
+    "party": "NRM"
+  },
+  {
+    "id": 346,
+    "name": "Mr Matia Kasaija",
+    "constituency": "Buyanja County",
+    "party": "NRM"
+  },
+  {
+    "id": 347,
+    "name": "Mr Emily Kugonza",
+    "constituency": "Buyanja East",
+    "party": "NRM"
+  },
+  {
+    "id": 348,
+    "name": "Mr Kisembo Basemera Noeline",
+    "constituency": "Kibaale District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 349,
+    "name": "Ms Nabanja Robbinah",
+    "constituency": "Kakumiro District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 350,
+    "name": "Mr Fred Byamukama",
+    "constituency": "Bugangaizi West",
+    "party": "NRM"
+  },
+  {
+    "id": 351,
+    "name": "Mr Onesmus Twinamastiko",
+    "constituency": "Bugangaizi East",
+    "party": "NRM"
+  },
+  {
+    "id": 352,
+    "name": "Mr Prof. George William Lubega",
+    "constituency": "Bugangaizi South",
+    "party": "NRM"
+  },
+  {
+    "id": 353,
+    "name": "Norah Bigirwa Nyendwoha",
+    "constituency": "Buliisa District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 354,
+    "name": "Flora Natumanya",
+    "constituency": "Kikuube District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 355,
+    "name": "Francis Kazini Twinomujuni",
+    "constituency": "Buhaguzi County",
+    "party": "NRM"
+  },
+  {
+    "id": 356,
+    "name": "Stephen Aseera Itaza",
+    "constituency": "Buhaguzi East County",
+    "party": "NRM"
+  },
+  {
+    "id": 357,
+    "name": "Beatrice Wembabazi",
+    "constituency": "Hoima District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 358,
+    "name": "Pius Wakabi Rujumba",
+    "constituency": "Bugahya County",
+    "party": "NRM"
+  },
+  {
+    "id": 359,
+    "name": "Dr. Gerald Kasigwa",
+    "constituency": "Kigorobya County",
+    "party": "NRM"
+  },
+  {
+    "id": 360,
+    "name": "Monday Julius Rude",
+    "constituency": "Bukonzo County East",
+    "party": "NRM"
+  },
+  {
+    "id": 361,
+    "name": "Kitanywa Sowedi",
+    "constituency": "Bukonzo County North",
+    "party": "NRM"
+  },
+  {
+    "id": 362,
+    "name": "Mulindwa David Isimbwa",
+    "constituency": "Busongora County South",
+    "party": "NRM"
+  },
+  {
+    "id": 363,
+    "name": "Kambale Ferigo",
+    "constituency": "Kasese Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 364,
+    "name": "Agnes Kirabo",
+    "constituency": "Luweero District Woman",
+    "party": "NRM"
+  },
+  {
+    "id": 365,
+    "name": "Andrew Ojok Oulanyah",
+    "constituency": "Omoro County",
+    "party": "NRM"
+  },
+  {
+    "id": 366,
+    "name": "Catherine Lamwaka",
+    "constituency": "Omoro District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 367,
+    "name": "Anthony Akol",
+    "constituency": "Kilak North County",
+    "party": "NRM"
+  },
+  {
+    "id": 368,
+    "name": "Phoebe Ayoo",
+    "constituency": "Gulu District Woman Representati",
+    "party": "NRM"
+  },
+  {
+    "id": 369,
+    "name": "Nambi Faridah",
+    "constituency": "Kawempe North",
+    "party": "NRM"
+  },
+  {
+    "id": 370,
+    "name": "Minsa Kabanda",
+    "constituency": "Kampala District",
+    "party": "NRM"
+  },
+  {
+    "id": 371,
+    "name": "Fred Ruhindi",
+    "constituency": "Nakawa East",
+    "party": "NRM"
+  },
+  {
+    "id": 372,
+    "name": "Beatrice Rwakimari",
+    "constituency": "Ruhaama (ntungamo District)",
+    "party": "NRM"
+  },
+  {
+    "id": 373,
+    "name": "Yona Musinguzi",
+    "constituency": "Ntungamo Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 374,
+    "name": "Ms Josephine Babugi",
+    "constituency": "Bundibugyo District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 375,
+    "name": "Ntabazi Harriet,",
+    "constituency": "Bwamba County",
+    "party": "NRM"
+  },
+  {
+    "id": 376,
+    "name": "Kadaga Rebecca Alitwala",
+    "constituency": "Kamuli Distritct Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 377,
+    "name": "Mugabi Muzaale Martin",
+    "constituency": "Buzaaya County",
+    "party": "NRM"
+  },
+  {
+    "id": 378,
+    "name": "Bazanya Matayo",
+    "constituency": "Bugabula South",
+    "party": "NRM"
+  },
+  {
+    "id": 379,
+    "name": "Teira Johν",
+    "constituency": "Bugabula North",
+    "party": "NRM"
+  },
+  {
+    "id": 380,
+    "name": "Norah Bigirwa Nyendwoha",
+    "constituency": "Woman Mp Buliisa District",
+    "party": "NRM"
+  },
+  {
+    "id": 381,
+    "name": "Daniel Kananura",
+    "constituency": "Kira Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 382,
+    "name": "Steven Kashaija Shyaka",
+    "constituency": "Entebbe Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 383,
+    "name": "Idi Bugaga Matovu",
+    "constituency": "Nansana Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 384,
+    "name": "Beth Kankunda Kayesu",
+    "constituency": "Wakiso Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 385,
+    "name": "Mr Paul Akamba",
+    "constituency": "Busiki Constituency",
+    "party": "NRM"
+  },
+  {
+    "id": 386,
+    "name": "Mr Joel Azalwa",
+    "constituency": "Busiki Constituency",
+    "party": "NRM"
+  },
+  {
+    "id": 387,
+    "name": "Lydia Wanyoto",
+    "constituency": "Woman Mp Mbale City",
+    "party": "NRM"
+  },
+  {
+    "id": 388,
+    "name": "Masaba Mahomound",
+    "constituency": "Bunghokho Central",
+    "party": "NRM"
+  },
+  {
+    "id": 389,
+    "name": "Asha Nabulo",
+    "constituency": "Woman Mp Sironko District",
+    "party": "NRM"
+  },
+  {
+    "id": 390,
+    "name": "Annet Musibikha",
+    "constituency": "Woman Mp Manafwa District",
+    "party": "NRM"
+  },
+  {
+    "id": 391,
+    "name": "John Musila",
+    "constituency": "Bubulo East, Namisindwa",
+    "party": "NRM"
+  },
+  {
+    "id": 392,
+    "name": "Metrine Nanzala",
+    "constituency": "Namisindwa County, Namisindwa",
+    "party": "NRM"
+  },
+  {
+    "id": 393,
+    "name": "Gofrey Wakooli Matembu",
+    "constituency": "Butiru County, Manafwa",
+    "party": "NRM"
+  },
+  {
+    "id": 394,
+    "name": "Peace Khalayi",
+    "constituency": "Woman Mp, Namisindwa District",
+    "party": "NRM"
+  },
+  {
+    "id": 395,
+    "name": "Richard Owere Machika",
+    "constituency": "West Budama North East",
+    "party": "NRM"
+  },
+  {
+    "id": 396,
+    "name": "George Oketcho",
+    "constituency": "West Budama South",
+    "party": "NRM"
+  },
+  {
+    "id": 397,
+    "name": "Frederick Angura",
+    "constituency": "Tororo South County",
+    "party": "NRM"
+  },
+  {
+    "id": 398,
+    "name": "Sarah Opening Aching",
+    "constituency": "Tororo District Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 399,
+    "name": "Simon Nicholas Owino",
+    "constituency": "Tororo North County",
+    "party": "NRM"
+  },
+  {
+    "id": 400,
+    "name": "Massa Moses",
+    "constituency": "Elgon County, Bulambuli District",
+    "party": "NRM"
+  },
+  {
+    "id": 401,
+    "name": "Mr Moses Grace Balyeku",
+    "constituency": "Jinja South West City Constitunrm",
+    "party": "NRM"
+  },
+  {
+    "id": 402,
+    "name": "Ms Annet Musika",
+    "constituency": "Jinja City Woman Mp",
+    "party": "NRM"
+  },
+  {
+    "id": 403,
+    "name": "Mr Sadara Wandera",
+    "constituency": "Bugweri District County",
+    "party": "NRM"
+  },
+  {
+    "id": 404,
+    "name": "Acrobert Kiiza Moses",
+    "constituency": "Bughendera County",
+    "party": "NRM"
+  },
+  {
+    "id": 405,
+    "name": "Byamukama Rogers",
+    "constituency": "Masindi Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 406,
+    "name": "Kiiza Keneth",
+    "constituency": "Bujenje",
+    "party": "NRM"
+  },
+  {
+    "id": 407,
+    "name": "Namatovu Mastula",
+    "constituency": "Kamuli Municipality",
+    "party": "NRM"
+  },
+  {
+    "id": 408,
+    "name": "Wilbroad Nakhabala",
+    "constituency": "Namisindwa County, Namisindwa",
+    "party": "NUP"
+  },
+  {
+    "id": 409,
+    "name": "Fostin Wanikina",
+    "constituency": "Butiru County, Manafwa",
+    "party": "NUP"
+  },
+  {
+    "id": 410,
+    "name": "Ronald Okoth",
+    "constituency": "West Budama Central",
+    "party": "NUP"
+  },
+  {
+    "id": 411,
+    "name": "Ms Sarah Lwansasula",
+    "constituency": "Jinja City Woman Mp",
+    "party": "NUP"
+  },
+  {
+    "id": 412,
+    "name": "Mr Paul Mwiru",
+    "constituency": "Jinja South East City Constituency",
+    "party": "NUP"
+  },
+  {
+    "id": 413,
+    "name": "Mr Hussein Muyonjo",
+    "constituency": "Jinja North City Constituency",
+    "party": "NUP"
+  },
+  {
+    "id": 414,
+    "name": "Sulaiman Kiwanuka",
+    "constituency": "Nakifuma County",
+    "party": "NUP"
+  },
+  {
+    "id": 415,
+    "name": "Robert Maseruka",
+    "constituency": "Mukono South Constituency",
+    "party": "NUP"
+  },
+  {
+    "id": 416,
+    "name": "Shielah Dravile Amaniyo",
+    "constituency": "Woman Mp Mukono",
+    "party": "NUP"
+  },
+  {
+    "id": 417,
+    "name": "Betty Nambooze",
+    "constituency": "Mukono Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 418,
+    "name": "Mr Andrew Kiiza",
+    "constituency": "Kigulu South Constituency",
+    "party": "NUP"
+  },
+  {
+    "id": 419,
+    "name": "Mr Bam Lulenzi",
+    "constituency": "Iganga Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 420,
+    "name": "Hassan Kirumira",
+    "constituency": "Katikamu South",
+    "party": "NUP"
+  },
+  {
+    "id": 421,
+    "name": "Erias Sunday",
+    "constituency": "Ndorwa East",
+    "party": "NUP"
+  },
+  {
+    "id": 422,
+    "name": "Jackeline Tukamushaba",
+    "constituency": "Rukiga District Woman Mp",
+    "party": "NUP"
+  },
+  {
+    "id": 423,
+    "name": "Mr Jackson Mbaju Kathika",
+    "constituency": "Busongora South",
+    "party": "NUP"
+  },
+  {
+    "id": 424,
+    "name": "Ssenjubu Peter",
+    "constituency": "Buhaguzi County",
+    "party": "NUP"
+  },
+  {
+    "id": 425,
+    "name": "Bridget Kiiza",
+    "constituency": "Hoima City Woman Mp",
+    "party": "NUP"
+  },
+  {
+    "id": 426,
+    "name": "Ronald Kato Rwahwire",
+    "constituency": "Hoima West Division",
+    "party": "NUP"
+  },
+  {
+    "id": 427,
+    "name": "Bwambale Cleous Tinkasimire",
+    "constituency": "Bukonzo County East",
+    "party": "NUP"
+  },
+  {
+    "id": 428,
+    "name": "Muthoma Robert",
+    "constituency": "Kasese Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 429,
+    "name": "Katembo Fatuma Kamama",
+    "constituency": "Kasese District Woman Mp",
+    "party": "NUP"
+  },
+  {
+    "id": 430,
+    "name": "Denis Ssekabira",
+    "constituency": "Katikamu North",
+    "party": "NUP"
+  },
+  {
+    "id": 431,
+    "name": "Robert Ssekitoleko",
+    "constituency": "Bamunanika",
+    "party": "NUP"
+  },
+  {
+    "id": 432,
+    "name": "Brenda Nabukenya",
+    "constituency": "Luweero District Woman",
+    "party": "NUP"
+  },
+  {
+    "id": 433,
+    "name": "Joel Ssenyonyi",
+    "constituency": "Nakawa East",
+    "party": "NUP"
+  },
+  {
+    "id": 434,
+    "name": "Maala Zahara Luyilika",
+    "constituency": "Makindye West",
+    "party": "NUP"
+  },
+  {
+    "id": 435,
+    "name": "Abubaker Kawalya",
+    "constituency": "Rubaga North",
+    "party": "NUP"
+  },
+  {
+    "id": 436,
+    "name": "Fred Nyanzi",
+    "constituency": "Kawempe South",
+    "party": "NUP"
+  },
+  {
+    "id": 437,
+    "name": "Ali Nganda Mulyanyama",
+    "constituency": "Makindye East",
+    "party": "NUP"
+  },
+  {
+    "id": 438,
+    "name": "Lewis Lubongoya",
+    "constituency": "Kampala Central",
+    "party": "NUP"
+  },
+  {
+    "id": 439,
+    "name": "Elias Luyimbazi",
+    "constituency": "Kawempe North",
+    "party": "NUP"
+  },
+  {
+    "id": 440,
+    "name": "Godwin Rubahamya Magambo",
+    "constituency": "Ntungamo Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 441,
+    "name": "Kabasinguzi Jeniffe",
+    "constituency": "Bundibugyo District Woman Mp",
+    "party": "NUP"
+  },
+  {
+    "id": 442,
+    "name": "Steven Wandera",
+    "constituency": "Masindi Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 443,
+    "name": "Mugoya Godfrey Nup",
+    "constituency": "Kamuli Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 444,
+    "name": "Wabwire Cxhrisostom",
+    "constituency": "Buzaaya County",
+    "party": "NUP"
+  },
+  {
+    "id": 445,
+    "name": "Muwanguzi Andrew",
+    "constituency": "Bugabula South",
+    "party": "NUP"
+  },
+  {
+    "id": 446,
+    "name": "Lyavaala Joy",
+    "constituency": "Bugabula North",
+    "party": "NUP"
+  },
+  {
+    "id": 447,
+    "name": "George Musisi",
+    "constituency": "Kira Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 448,
+    "name": "Joyce Nabatta Namuli",
+    "constituency": "Entebbe Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 449,
+    "name": "Zambaali Bulasio Mukasa",
+    "constituency": "Nansana Municipality",
+    "party": "NUP"
+  },
+  {
+    "id": 450,
+    "name": "David Sserukenya",
+    "constituency": "Makindye Ssabagabo",
+    "party": "NUP"
+  },
+  {
+    "id": 451,
+    "name": "Betty Ethel Naluyima",
+    "constituency": "Wakiso Woman Mp",
+    "party": "NUP"
+  },
+  {
+    "id": 452,
+    "name": "Medard Lubega Ssegona",
+    "constituency": "Busiro East",
+    "party": "NUP"
+  },
+  {
+    "id": 453,
+    "name": "Charles Bedijo",
+    "constituency": "Buliisa County",
+    "party": "PPP"
+  },
+  {
+    "id": 454,
+    "name": "Milly Natembo",
+    "constituency": "Katikamu South",
+    "party": "PFF"
+  },
+  {
+    "id": 455,
+    "name": "Nicholas Kamara",
+    "constituency": "Kabale Municipality",
+    "party": "PFF"
+  },
+  {
+    "id": 456,
+    "name": "Muhindo Harold Tonny",
+    "constituency": "Bukonzo County East",
+    "party": "PFF"
+  },
+  {
+    "id": 457,
+    "name": "Mafunguro Joseph",
+    "constituency": "Kasese Municipality",
+    "party": "PFF"
+  },
+  {
+    "id": 458,
+    "name": "Asiasa Ruth Katya",
+    "constituency": "Kasese District Woman Mp",
+    "party": "PFF"
+  },
+  {
+    "id": 459,
+    "name": "Venantius Ahabwe",
+    "constituency": "Kajara (ntungamo District)",
+    "party": "PFF"
+  },
+  {
+    "id": 460,
+    "name": "Asinansi Nyakato",
+    "constituency": "Hoima City Woman Mp",
+    "party": "PFF"
+  },
+  {
+    "id": 461,
+    "name": "Ibrahim Ssemujju",
+    "constituency": "Kira Municipality",
+    "party": "PFF"
+  },
+  {
+    "id": 462,
+    "name": "Joshua Makula",
+    "constituency": "Makindye Ssabagabo",
+    "party": "PFF"
+  },
+  {
+    "id": 463,
+    "name": "Joan Nabatanzi",
+    "constituency": "Wakiso Woman Mp",
+    "party": "PFF"
+  },
+  {
+    "id": 464,
+    "name": "Harold Kaija",
+    "constituency": "Nansana Municipality",
+    "party": "PFF"
+  },
+  {
+    "id": 465,
+    "name": "Hannifah Nyangoma",
+    "constituency": "Woman Mp Buliisa District Fd",
+    "party": "PPP"
+  },
+  {
+    "id": 466,
+    "name": "Linda Irene Mugisa",
+    "constituency": "Fort Portal Woman Mp",
+    "party": "RNM"
+  },
+  {
+    "id": 467,
+    "name": "Collines Angwech",
+    "constituency": "Kioga County",
+    "party": "UPC"
+  },
+  {
+    "id": 468,
+    "name": "Geoffrey Ocen",
+    "constituency": "Kioga North",
+    "party": "UPC"
+  },
+  {
+    "id": 469,
+    "name": "Geoffrey Owili",
+    "constituency": "Oyam South",
+    "party": "UPC"
+  },
+  {
+    "id": 470,
+    "name": "Susan Achola Engola",
+    "constituency": "Apac Woman Mp",
+    "party": "UPC"
+  },
+  {
+    "id": 471,
+    "name": "Peter Obong",
+    "constituency": "Maruzi County",
+    "party": "UPC"
+  },
+  {
+    "id": 472,
+    "name": "Eng Richard Enen Okello",
+    "constituency": "Otuke East",
+    "party": "UPC"
+  },
+  {
+    "id": 473,
+    "name": "Grace Abote",
+    "constituency": "Otuke Woman Mp",
+    "party": "UPC"
+  },
+  {
+    "id": 474,
+    "name": "Vincent Opito",
+    "constituency": "Dokolo South",
+    "party": "UPC"
+  },
+  {
+    "id": 475,
+    "name": "Jalameco Fred",
+    "constituency": "Ajuri County",
+    "party": "UPC"
+  },
+  {
+    "id": 476,
+    "name": "Maxwell Akora",
+    "constituency": "Apac Municipality",
+    "party": "UPC"
+  },
+  {
+    "id": 477,
+    "name": "Kamara Alex",
+    "constituency": "Ruhaama (ntungamo District)",
+    "party": "UPC"
+  },
+  {
+    "id": 478,
+    "name": "Tairi Asirafu",
+    "constituency": "Aringa Constituency",
+    "party": "UPM"
+  },
+  {
+    "id": 479,
+    "name": "Solomon Opio",
+    "constituency": "Kumi County",
+    "party": "UNKNOWN"
+  },
+  {
+    "id": 480,
+    "name": "Joan Kyomuhendo",
+    "constituency": "Kikuube District Woman Mp",
+    "party": "UNKNOWN"
+  },
+  {
+    "id": 481,
+    "name": "Flora Natumanya",
+    "constituency": "Kikuube District Woman Mp",
+    "party": "UNKNOWN"
+  }
+]
