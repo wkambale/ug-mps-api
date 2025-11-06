@@ -31,15 +31,15 @@ The `--reload` flag automatically restarts the server when you make code changes
 ### Access the API:
 Your server is now running!
 
-*   **Base URL:** `http://127.0.0.1:80900`
-*   **Swagger Docs (Interactive):** `http://127.0.0.1:80900/docs`
-*   **Redoc (Alternative):** `http://127.0.0.1:80900/redoc`
+*   **Base URL:** `http://127.0.0.1:8026`
+*   **Swagger Docs (Interactive):** `http://127.0.0.1:8026/docs`
+*   **Redoc (Alternative):** `http://127.0.0.1:8026/redoc`
 
 ---
 
 ## API Endpoints
 
-FastAPI automatically generates interactive documentation. Visit `http://127.0.0.1:80900/docs` to see all endpoints, test them, and view their schemas.
+Visit `http://127.0.0.1:8026/docs` (local) or `https://mps-api-725721515063.us-central1.run.app/docs)` (live) to see all endpoints, test them, and view their schemas.
 
 ### Get All MPs
 
